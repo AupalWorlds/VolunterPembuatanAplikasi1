@@ -5,4 +5,5 @@ Repository ini digunakan sebagai sayembara pencarian aplikasi Dicoding. Jika and
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
 
   * Rouf Aufalin Al Ghoitsal [LinkedIn](www.linkedin.com/in/ro-uf-aufalin-al-ghoitsal-3606a0221)
-  * Faila Nadhifatul Aryza 
+  * Faila Nadhifatul Aryza
+  * Dimas Andhika Firmantod
